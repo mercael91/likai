@@ -253,6 +253,10 @@ Create a brand personality through dialogue:
 - **Creator:** [mercael91](https://github.com/mercael91)
 - **Telegram:** [@mercael](https://t.me/mercael)
 
+## Related Projects
+
+- **[AGI-Zarodysh](https://github.com/mercael91/embryo-agent)** — Autonomous AI agent that contributes to open source. 71 modules, 11 merged PRs, ethical compass.
+
 ---
 
 <div align="center">
