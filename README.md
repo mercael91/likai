@@ -255,7 +255,8 @@ Create a brand personality through dialogue:
 
 ## Related Projects
 
-- **[AGI-Zarodysh](https://github.com/mercael91/embryo-agent)** — Autonomous AI agent that contributes to open source. 71 modules, 11 merged PRs, ethical compass.
+- **[AGI-Zarodysh](https://github.com/mercael91/embryo-agent)** — Autonomous AI agent that contributes to open source. 71 modules, 11 merged PRs.
+- **[Nexus Analytica](https://github.com/mercael91/nexus-analitica)** — AI news intelligence with consensus analysis and scenario forecasting.
 
 ---
 
