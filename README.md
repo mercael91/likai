@@ -258,6 +258,7 @@ Create a brand personality through dialogue:
 - **[AGI-Zarodysh](https://github.com/mercael91/embryo-agent)** — Autonomous AI agent that contributes to open source. 71 modules, 11 merged PRs.
 - **[Nexus Analytica](https://github.com/mercael91/nexus-analitica)** — AI news intelligence with consensus analysis and scenario forecasting.
 - **[Tinkoff Scalper](https://github.com/mercael91/tinkoff-scalper)** — Autonomous scalper bot for Russian stock market.
+- **[Local Multi-Agent](https://github.com/mercael91/local-multi-agent)** — 5 AI agents running entirely on local LLMs.
 
 ---
 
